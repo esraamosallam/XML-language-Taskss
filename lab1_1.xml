@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE family SYSTEM "D:\stuff\After Graduation\ITI_PowerBI\XML\lab1_1.dtd">
+<family>
+	<grandfather>Taghaian
+        <father job="Accountant">Mostafa
+            <mother/>
+			<daughter age="23" job="Engineer">Zahra</daughter>
+			<son age="14" sport="Football">Ali</son>
+		</father>
+		<uncle>Tarek</uncle>
+		<uncle>Khaled</uncle>
+		<aunt sons="1">Layla</aunt>
+	</grandfather>
+</family>
